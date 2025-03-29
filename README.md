@@ -83,4 +83,3 @@ hobbies:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=random&text=Thanks%20for%20stopping%20by!&animation=twinkling&fontsize=30&section=footer" alt="Footer Animation"/>
 </p>
 
-![Snake animation](https://github.com/Anfoy/Anfoy/blob/output/github-contribution-grid-snake.svg)
