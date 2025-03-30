@@ -17,7 +17,7 @@
   <a href="https://www.x.com/AD_OG_">
     <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" alt="Twitter" height="60" style="margin: 0 20px;"/>
   </a>
-  <a href="https://www.x.com/AD_OG_">
+  <a href="https://www.linkedin.com/in/anthony-dierkes-933116337">
     <img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-512.png" alt="LinkedIn" height="60" style="margin: 0 20px;"/>
   </a>
 </p>
