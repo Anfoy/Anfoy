@@ -4,9 +4,6 @@
 
 <h1 align="center">My name is Anthony!</h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=random" alt="Animated GIF"/>
-</p>
 
 <h2 align="center">Here are my Socials!</h2>
 
