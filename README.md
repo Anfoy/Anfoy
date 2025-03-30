@@ -87,6 +87,6 @@ hobbies:
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=Thanks%20for%20stopping%20by!&animation=twinkling&fontsize=30&section=footer" alt="Footer Animation"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer" alt="Footer Animation"/>
 </p>
 
