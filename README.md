@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=Welcome!&animation=twinkling&fontsize=30&section=header" alt="Welcome Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=header" alt="Welcome Banner"/>
 </p>
 
 <h1 align="center">My name is Anthony!</h1>
