@@ -31,7 +31,7 @@ location: New Jersey
 education:
   - major: Data Science
     university: Purdue University
-    graduation: 2028
+    graduation: 2029
 
 interests:
   - Data Science
