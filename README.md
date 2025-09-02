@@ -40,16 +40,11 @@ interests:
   - Open Source
 
 tech_stack:
-  languages: [Python, Java, JavaScript, SQL]
+  languages: [Python, Java, JavaScript/Typescript, SQL]
   tools: [VS Code, Git, Docker, Postman, JetBrains]
-  frameworks: [Learning=(React, Node.js, Flask, Spring)]
+  frameworks: [SST, React, Spigot, etc...]
 
 currently_learning:
-  - R/Python
-  - FastAPI
-  - JavaScript
-  - ReactJS
-  - NodeJS
 
 hobbies:
   - Swimming
