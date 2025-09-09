@@ -70,17 +70,6 @@ hobbies:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
 </p>
 
-<h2 align="center">GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anfoy&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anfoy&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer" alt="Footer Animation"/>
 </p>
