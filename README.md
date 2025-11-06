@@ -40,16 +40,16 @@ interests:
   - Open Source
 
 tech_stack:
-  languages: [Python, Java, JavaScript/Typescript, SQL]
-  tools: [VS Code, Git, Docker, Postman, JetBrains]
-  frameworks: [SST, React, Spigot, etc...]
+  languages: (Proficient): Java · SQL · Python (Intermediate): Swift · JavaScript · TypeScript · R
+  tools: AWS (Lambda, API Gateway, DynamoDB, Cognito, S3) · SST(IaC) · Neon Database · MySQL · SQLite ·PostgreSQL · Git
+  frameworks: Hono · React Native · Expo · React · Tanstack Query
 
-currently_learning:
+currently_learning: Supabase, Vercel
 
 hobbies:
-  - Swimming
+  - Gym
   - Coding
-  - Minecraft Projects
+  - Diehard New York Jets Fan
   - Poker
   - Eating
 ```
