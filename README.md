@@ -44,14 +44,14 @@ tech_stack:
   tools: AWS (Lambda, API Gateway, DynamoDB, Cognito, S3) · SST(IaC) · Neon Database · MySQL · SQLite ·PostgreSQL · Git
   frameworks: Hono · React Native · Expo · React · Tanstack Query
 
-currently_learning: Supabase, Vercel
+currently_learning: The frontier of AI
 
 hobbies:
   - Gym
   - Coding
   - Diehard New York Jets Fan
   - Poker
-  - Eating
+  - Skiing
 ```
   
 <h2 align="center">Tools I Use and Am Learning</h2>
